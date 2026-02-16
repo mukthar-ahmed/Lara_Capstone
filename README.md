@@ -1,3 +1,6 @@
+THIS IS NOT THE UPDATED README MD
+
+
 This is a **valid and excellent approach**, especially for a Capstone project with two distinct teams.
 
 By separating `courses` (Core Team) and `ai_assets` (AI Team), you avoid **merge conflicts** and **schema bloat**. The Core Team doesn't need to know *how* the quiz is structured, they just need to know its ID to link it.
